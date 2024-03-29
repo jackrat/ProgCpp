@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Faktura Wygenerowano="2021-03-28" Wystawca="Zażółć gęślą jaźń">
+  <Pozycje>
+    <Pozycja cena="2072326884" ilosc="1706304494">Ziemniaki</Pozycja>
+    <Pozycja cena="1300222065" ilosc="1396248934">Mąka</Pozycja>
+    <Pozycja cena="896304327" ilosc="1778752161">Brokuły</Pozycja>
+    <Pozycja cena="977117700" ilosc="2128336809">Żółty ser</Pozycja>
+    <Pozycja cena="458136968" ilosc="1871151532">Cukier</Pozycja>
+  </Pozycje>
+</Faktura>
